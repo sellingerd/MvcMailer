@@ -34,4 +34,4 @@ using System.Runtime.InteropServices;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
-[assembly: InternalsVisibleTo("Mvc.Mailer.Test")]
+[assembly: InternalsVisibleTo("Mvc.Mailer.Test,PublicKey=002400000480000094000000060200000024000052534131000400000100010071edf1990cdf5db30329fe7d62733a309d56bc0755f99a40bbb6daae01b1096da25d2f0c48e2b54f81f15c0d835b51c0fc5c47e83667cbaf06cc0332b0c9de7d062e577d620b816753b44a1d188944af79733fb7253735ad976a40387a57c05a5127cc33ad0b7e6ee7136f0cbdd01996f8b1164fa46d466f7fa948f63d9297ab")]
